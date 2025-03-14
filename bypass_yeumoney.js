@@ -76,7 +76,7 @@
   }
   function _0x2629fd(_0x3b172b, _0x4e73f8, _0x46a4e1) {
     const _0xc79fcf = {
-      'username': "Bypasser Notifi By HieuDz",
+      'username': "Bypasser Notifi By Khai Hack Game",
       'avatar_url': "https://i.pinimg.com/736x/77/c9/0a/77c90a2b0c3a7d4a6a1ae22d5ac4238e.jpg",
       'embeds': [{
         'title': "**Bypass Thành Công**",
