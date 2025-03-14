@@ -914,7 +914,7 @@
     _0x379ecf.appendChild(_0x4632be);
     const _0x28e955 = document.createElement("div");
     _0x28e955.className = "author-text";
-    _0x28e955.textContent = "Code By Hieudz • Ducknovis • XGreen";
+    _0x28e955.textContent = "Coded By Khai Hack Game • 0348560360";
     _0x54575a.appendChild(_0x379ecf);
     _0x54575a.appendChild(_0x28e955);
     document.body.appendChild(_0x54575a);
